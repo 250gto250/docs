@@ -1,4 +1,14 @@
 ﻿
+## Debian
+
+### Nvidia:
+
+Please follow instructions here: https://wiki.debian.org/NvidiaGraphicsDrivers 
+
+### AMD
+
+Please follow instructions here: https://wiki.debian.org/AtiHowTo
+
 ## Ubuntu
 
 ### Nvidia:
